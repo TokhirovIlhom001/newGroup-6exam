@@ -1,0 +1,102 @@
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+  
+.carousel_img {
+    max-width: 1440px;
+    width: 100%;
+    height: 715px;
+
+}
+
+
+.bigsavingzone {
+  margin: 50px;
+}
+
+
+.shop_carusel-text {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    color: white;
+}
+
+.text_h2-one {
+  margin: 20px;
+}
+
+.text_h1 {
+  margin: 20px;
+  font-size: 70px;
+}
+
+.text_h2-two {
+  margin: 20px;
+}
+
+.text_btn {
+  width: 130px;
+  height: 40px;
+  border: 2px solid #F0F0F0;
+  border-radius: 5px;
+}
+
+.text_btn:hover {
+  background-color: #01b7dc;
+}
+
+.newarrival {
+  font-size: 20px;
+}
+
+.a {
+  width: 6px;
+  height: 25px;
+  background-color: purple;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.newarrival-div {
+  display: flex;
+  margin: 50px;
+}
+
+.newarrivals {
+  font-size: 40px;
+}
+
+.b {
+  width: 8px;
+  height: 45px;
+  background-color: purple;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.newarrivala-div {
+  display: flex;
+  margin: 70px;
+}
